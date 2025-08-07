@@ -1,0 +1,20 @@
+body{
+    background-color: #212529;
+}
+
+
+/* Header start */
+header .sidebar{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: 2px solid #2b2e31;
+    border-radius: 20px;
+    width: 200px;
+}
+
+header .sidebar .navbar ul li a{
+    font-size: 18px;
+    color: #808080;
+}
+/* Header end */
