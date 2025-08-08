@@ -1,20 +1,61 @@
-body{
+body {
     background-color: #212529;
 }
 
 
 /* Header start */
-header .sidebar{
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    border: 2px solid #2b2e31;
-    border-radius: 20px;
-    width: 200px;
+header .sidebar {
+    height: 100vh;
+    /* background-color: #fff; */
 }
 
-header .sidebar .navbar ul li a{
+header .sidebar nav {
+    width: 300px;
+    border: 2px solid #44484b;
+    border-radius: 20px;
+}
+
+header .sidebar .navbar .navbar-nav li a {
+    padding: 15px;
     font-size: 18px;
+    font-weight: 400;
     color: #808080;
 }
+
+#main-dropdown .dropdown-toggle::after {
+    background-color: #fff;
+}
+
+#main-dropdown .dropdown-menu {
+    border: 2px solid #44484b;
+    margin: 0 20px;
+
+}
+
+#main-dropdown .dropdown-menu li {
+    padding: 10px 0;
+}
+
+header .sidebar .navbar .navbar-nav li i {
+    font-size: 21px;
+}
+
+header .sidebar .navbar .list-inline li a {
+    background-color: #606060ca;
+    color: #ffffffdf;
+    padding: 8px;
+    border-radius: 50%;
+    font-size: 16px;
+}
+
 /* Header end */
+
+
+/* main start */
+main {
+    width: calc(100% - 300px);
+    margin-left: auto;
+    background-color: #ff0000;  
+}
+
+/* main end */
