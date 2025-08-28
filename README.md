@@ -8,17 +8,7 @@ A sleek, responsive portfolio website built using HTML, CSS, and JavaScript to s
 ##  Overview
 “BT Portfolio” serves as a digital representation of my work, allowing visitors to explore featured projects, learn more about me, and easily get in touch. The site is optimized for performance and accessibility, adapting seamlessly across devices.
 
-##  Live Demo :: (https://pr-01-bt-portfolio.vercel.app)
-
-##  Table of Contents
-- [Features](#features)  
-- [Technology Stack](#technology-stack)  
-- [Project Structure](#project-structure)  
-- [Getting Started](#getting-started)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)
+- Live Demo :: (https://pr-01-bt-portfolio.vercel.app)
 
 ##  Features
 - Fully **responsive layout** for desktop, tablet, and mobile views  
